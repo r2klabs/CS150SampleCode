@@ -1,2 +1,2 @@
 # Introduction to Python Programming
-This repository contains all of the example code provided by Deitel and Deitel for Chapters 1 - 10 of <ins>Intro to Python for Computer Science and Data Science</ins>.  These are the chapters we will cover in CS 150 for Fall2020.
+This repository contains all of the example code provided by Deitel and Deitel for **Chapters 1 - 10** of <ins>Intro to Python for Computer Science and Data Science</ins>.  These are the chapters we will cover in CS 150 for Fall2020.
